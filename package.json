@@ -1,0 +1,14 @@
+{
+  "name": "Listas",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "author": "Daniil Litovchenko",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "jsdoc": "^3.6.3",
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.2"
+  }
+}
